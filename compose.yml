@@ -1,6 +1,5 @@
 services:
 
-  #nextjs service
   nextapp:
     container_name: nextapp
     image: nextapp:1.0.0
@@ -14,7 +13,6 @@ services:
     depends_on:
       - flaskapp
 
-  # flask service
   flaskapp:
     container_name: flaskapp
     image: flaskapp:1.0.0
@@ -23,10 +21,5 @@ services:
       dockerfile: flask.dockerfile
     ports:
       - "4000:4000"
-    environment:
-      - SECRET_KEY=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
-    
-
-
-
-
+    env_file:
+      - secret.env
