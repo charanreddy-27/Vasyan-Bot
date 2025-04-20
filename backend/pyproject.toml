@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "healthbot"
+version = "0.1.0"
+description = ""
+authors = ["ShyamSundhar1411 <clashwithchiefrpjyt@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.0"
+requests = "^2.31.0"
+flask-cors = "^4.0.0"
+python-dotenv = "^1.0.0"
+openai = "0.28"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
