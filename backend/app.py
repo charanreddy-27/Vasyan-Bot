@@ -1,7 +1,10 @@
-from app import app
-from flask_cors import CORS, cross_origin
+from flask import Flask
 
-CORS(app, support_credentials=True)
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Vitality Bot Backend is Running!"
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -2,7 +2,7 @@
 name = "healthbot"
 version = "0.1.0"
 description = ""
-authors = ["ShyamSundhar1411 <clashwithchiefrpjyt@gmail.com>"]
+authors = ["charan <charanreddychanda@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

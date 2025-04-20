@@ -168,8 +168,8 @@ export function CardsChat() {
               <AvatarFallback>AS</AvatarFallback>
             </Avatar>
             <div>
-              <p className="text-sm font-medium leading-none">Aviral Srivastava</p>
-              <p className="text-sm text-muted-foreground">meaviral17@gmail.com</p>
+              <p className="text-sm font-medium leading-none">Charan Reddy</p>
+              <p className="text-sm text-muted-foreground">charanreddychanda@gmail.com</p>
             </div>
           </div>
           <TooltipProvider delayDuration={0}>
