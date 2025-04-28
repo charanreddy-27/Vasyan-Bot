@@ -98,3 +98,11 @@ npm run dev
 </p>
 
 ---
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #4B4B4B;">
+  © 2025 <strong>Charan Reddy</strong>. All rights reserved. 
+</p>
+
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 16px; color: #8D8D8D;">
+  Built with ❤️ for  <strong> mental well-being</strong>
+</p>
