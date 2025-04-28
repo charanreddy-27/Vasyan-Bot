@@ -10,6 +10,8 @@
 
 Inclusi-AI Vasyan is a cutting-edge mental health support system, offering **personalized emotional well-being experiences**.
 
+"Vasyan" symbolizes "A gift of stability and peace for mental well-being."
+
 Built during the Microsoft Learn Student Ambassadors Project Cohort, it integrates powerful technologies:
 
 - **Flask** for the backend
