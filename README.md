@@ -1,12 +1,12 @@
-# Inclusi-AI-Vitality | Mental Well-being App
+# Inclusi-AI-Vasyan | Mental Well-being App
 
-A comprehensive mental well-being app developed by Team Inclusi-AI Vitality, harnessing Flask, Next.js, OpenAI API, and Azure services. The app aims to provide personalized support for emotional well-being through features such as a conversational chatbot, personalized recommendations, mood tracking, and a secure user experience.
+A comprehensive mental well-being app developed by Team Inclusi-AI Vasyan, harnessing Flask, Next.js, OpenAI API, and Azure services. The app aims to provide personalized support for emotional well-being through features such as a conversational chatbot, personalized recommendations, mood tracking, and a secure user experience.
 
 ## Project Overview
 
-This open-source project emerged from the Microsoft Learn Student Ambassadors Project cohort, where Team Inclusi-AI Vitality collaborated to harness AI for real-world mental health challenges. The app integrates cutting-edge technologies, including Flask for the backend, Next.js for the frontend, OpenAI API for conversational AI, and Azure services for cloud hosting.
+This open-source project emerged from the Microsoft Learn Student Ambassadors Project cohort, where Team Inclusi-AI Vasyan collaborated to harness AI for real-world mental health challenges. The app integrates cutting-edge technologies, including Flask for the backend, Next.js for the frontend, OpenAI API for conversational AI, and Azure services for cloud hosting.
 <p align="center">
-  <img src="https://github.com/deepthibalasubramanian/Inclusi-AI-Vitality/assets/90669430/29fa5a98-9389-491d-8ded-ba9d4ab1e981" alt="Inclusi-AI-Vitality Demo" width="700">
+  <img src="https://github.com/deepthibalasubramanian/Inclusi-AI-Vasyan/assets/90669430/29fa5a98-9389-491d-8ded-ba9d4ab1e981" alt="Inclusi-AI-Vasyan Demo" width="700">
 </p>
 
 ## Key Features
@@ -19,16 +19,16 @@ This open-source project emerged from the Microsoft Learn Student Ambassadors Pr
 | Secure User Experience   | Utilizes Azure App Service and Azure Database for PostgreSQL to ensure secure storage and data privacy.        |
 
  ## Achievements and Project Demo
-- *Team Inclusi-AI Vitality:* A dynamic team dedicated to leveraging AI for mental well-being solutions during the Microsoft Learn Student Ambassadors Project cohort from September to November 2023. Our commitment to innovation and user support led us to develop a functional prototype, showcasing our dedication to making a positive impact on users.
-- Explore the app by accessing the [deployed frontend app's URL](https://vitalityapp.azurewebsites.net/). Interact with the chatbot, utilize mood tracking, and explore personalized recommendations.
+- *Team Inclusi-AI Vasyan:* A dynamic team dedicated to leveraging AI for mental well-being solutions during the Microsoft Learn Student Ambassadors Project cohort from September to November 2023. Our commitment to innovation and user support led us to develop a functional prototype, showcasing our dedication to making a positive impact on users.
+- Explore the app by accessing the [deployed frontend app's URL](https://Vasyanapp.azurewebsites.net/). Interact with the chatbot, utilize mood tracking, and explore personalized recommendations.
 - You can watch the [project demo here](https://www.youtube.com/watch?v=4YFudJ-0B2s).
 
 <p align="center">
-  <img src="Images/img1.jpg" alt="Inclusi-AI-Vitality Demo" width="700">
+  <img src="Images/img1.jpg" alt="Inclusi-AI-Vasyan Demo" width="700">
 </p>
 
 <p align="center">
-  <img src="Images/img2.jpg" alt="Inclusi-AI-Vitality Demo" width="700">
+  <img src="Images/img2.jpg" alt="Inclusi-AI-Vasyan Demo" width="700">
 </p>
 
 ## Statistics on Mental Health
@@ -71,7 +71,7 @@ Here are some compelling statistics highlighting the importance of addressing me
 
 ## Contribution Guidelines
 
-We value and welcome contributions to enhance the Inclusi-AI-Vitality app. To contribute, follow these guidelines:
+We value and welcome contributions to enhance the Inclusi-AI-Vasyan app. To contribute, follow these guidelines:
 
 1. **Create a Pull Request:**
     - Fork the repository, create a feature branch, and submit a pull request.
